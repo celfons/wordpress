@@ -19,4 +19,5 @@ WooCommerce
 User Role Editor
 https://www.youtube.com/watch?v=MakdGZdmmCQ <-Bonus
 https://wordpress.org/plugins/user-role-editor/ <- Plugin Roles Editor
+https://br.wordpress.org/plugins/theme-my-login/ <- Login Customer
 </pre>
