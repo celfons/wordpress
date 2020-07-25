@@ -16,6 +16,7 @@ Ocean Extra
 Elementor
 WPForms Lite
 WooCommerce
+WooCommerce Live Chat
 User Role Editor
 Jetpack
 User Menus
