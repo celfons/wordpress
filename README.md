@@ -17,6 +17,9 @@ Elementor
 WPForms Lite
 WooCommerce
 User Role Editor
+Jetpack
+User Menus
+Super Socializer
 https://www.youtube.com/watch?v=MakdGZdmmCQ <-Bonus
 https://wordpress.org/plugins/user-role-editor/ <- Plugin Roles Editor
 https://br.wordpress.org/plugins/theme-my-login/ <- Login Customer
