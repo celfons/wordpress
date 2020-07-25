@@ -17,8 +17,6 @@ Elementor
 WPForms Lite
 WooCommerce
 User Role Editor
-Theme MyLogin
 https://www.youtube.com/watch?v=MakdGZdmmCQ <-Bonus
 https://wordpress.org/plugins/user-role-editor/ <- Plugin Roles Editor
-https://br.wordpress.org/plugins/theme-my-login/
 </pre>
