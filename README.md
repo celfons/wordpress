@@ -1,3 +1,4 @@
+<pre>
 https://signup.heroku.com/ <-Create your account
 sudo apt install git
 sudo snap install --classic heroku
@@ -10,3 +11,4 @@ heroku pg:promote HEROKU_POSTGRESQL_INSTANCE
 git push heroku
 https://www.youtube.com/watch?v=MakdGZdmmCQ <-Bonus
 https://wordpress.org/plugins/user-role-editor/ <- Plugin Bonus
+</pre>
